@@ -13,6 +13,7 @@
 body {
   background-color: #000000;
      color: #ffffff;
+       font-family: JetbrainMonoNerdFont; 
 }
 p {
   font-family: JetbrainMonoNerdFont; 
@@ -38,4 +39,9 @@ background: #000000;
   color: #ffd900;
 font-family: JetbrainMonoNerdFontSemiBold; 
 underline: none;
+}
+
+.warning {
+  color: #ff0000;
+  font-family: JetbrainMonoNerdFontBold;
 }

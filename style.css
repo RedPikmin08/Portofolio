@@ -1,1 +1,8 @@
+@font-face {
+  font-family: ComicShannsMonoNerdFontMono; /* set name */
+  src: url(assets/ComicShannsMonoNerdFontMono-Regular.woff); /* url of the font */
+}
 
+p {
+  font-family: ComicShannsMonoNerdFontMono; /* use font */
+}

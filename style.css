@@ -10,16 +10,21 @@
   font-family: JetbrainMonoNerdFontSemiBold; /* set name */
   src: url(assets/fonts/JetbrainMonoNerdFont/JetBrainsMonoNerdFontMono-SemiBold.ttf); /* url of the font */
 }
-
-
+body {
+  background-color: #000000;
+     color: #ffffff;
+}
 p {
   font-family: JetbrainMonoNerdFont; /* use font */
+
 }
 h1{
   font-family: JetbrainMonoNerdFontBold; /* use font */
+
 }
 h2{
   font-family: JetbrainMonoNerdFontSemiBold; /* use font */
+
 }
 
 .TitleYellow {
